@@ -38,4 +38,4 @@ kici run local push  # actually execute the workflow on your laptop
 
 Open-source under Apache-2.0 (SDK, CLI, libraries) and AGPL-3.0 (orchestrator, agent, engine).
 
-> **Status:** pre-1.0 / experimental, built by a solo developer. Don't put it on CI you can't afford to break — yet.
+> **Status:** actively developed and dogfooded in production. Pre-1.0 — pin versions for production deployments.
