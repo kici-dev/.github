@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./cat-head.svg" alt="KiCI" width="96" />
+  <img src="./cat-head.png" alt="KiCI" width="96" />
 </p>
 
 <h1 align="center">KiCI</h1>
