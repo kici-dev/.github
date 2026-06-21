@@ -4,7 +4,7 @@
 
 <h1 align="center">KiCI</h1>
 
-<p align="center"><strong>TypeScript CI/CD. Test locally. Test remotely. Run anywhere.</strong></p>
+<p align="center"><strong>TypeScript CI/CD that runs on your infrastructure — we never see your source or secrets.</strong></p>
 
 <p align="center">
   Define your CI/CD in TypeScript instead of YAML — full type-checking, real local
