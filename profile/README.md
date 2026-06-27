@@ -16,7 +16,7 @@
 ```bash
 npm install -g kici
 kici init            # scaffold a .kici/ workflow directory
-kici test pr:open    # dry-run: which workflows match this event?
+kici preview pr:open # dry-run: which workflows match this event?
 kici run local push  # actually execute the workflow on your laptop
 ```
 
