@@ -7,8 +7,9 @@
 <p align="center"><strong>TypeScript CI/CD that runs on your infrastructure — we never see your source or secrets.</strong></p>
 
 <p align="center">
-  Define your CI/CD in TypeScript instead of YAML — full type-checking, real local
-  execution, and a relay model that keeps your source on your own infrastructure.
+  Define your CI/CD in typed TypeScript instead of YAML — the kind an AI coding agent
+  can author and type-check, with every job run confined on your own infrastructure,
+  so we never see your source or secrets.
 </p>
 
 ---
