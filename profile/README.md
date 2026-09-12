@@ -4,12 +4,13 @@
 
 <h1 align="center">KiCI</h1>
 
-<p align="center"><strong>TypeScript CI/CD that runs on your infrastructure — we never see your source or secrets.</strong></p>
+<p align="center"><strong>CI/CD in typed TypeScript. Tested on your machine. Run on your infrastructure.</strong></p>
 
 <p align="center">
-  Define your CI/CD in typed TypeScript instead of YAML — the kind an AI coding agent
-  can author and type-check, with every job run confined on your own infrastructure,
-  so we never see your source or secrets.
+  Write pipelines in real TypeScript, not YAML. Run them on your laptop with
+  <code>kici run --local</code>, then let your own orchestrator run them on servers you
+  control. KiCI's hosted platform gives your whole team the dashboard, history and access
+  control. It never receives your source or secrets.
 </p>
 
 ---
