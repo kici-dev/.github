@@ -40,4 +40,4 @@ kici run push --local # actually execute the workflow on your own machine
 
 Open-source under Apache-2.0 (SDK, CLI, libraries) and AGPL-3.0 (orchestrator, agent, engine).
 
-> **Status:** actively developed and dogfooded in production. Pre-1.0 — pin versions for production deployments.
+> **Status:** public beta — actively developed and dogfooded in production. Pre-1.0 — pin versions for production deployments.
