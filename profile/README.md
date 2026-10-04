@@ -4,13 +4,11 @@
 
 <h1 align="center">KiCI</h1>
 
-<p align="center"><strong>CI/CD in typed TypeScript. Tested on your machine. Run on your infrastructure.</strong></p>
+<p align="center"><strong>CI/CD with a full dev loop your coding agent can own — on your own infrastructure.</strong></p>
 
 <p align="center">
-  Write pipelines in real TypeScript, not YAML. Run them on your laptop with
-  <code>kici run --local</code>, then let your own orchestrator run them on servers you
-  control. KiCI's hosted platform gives your whole team the dashboard, history and access
-  control. It never receives your source or secrets.
+  KiCI is a complete CI/CD system that runs your pipelines on machines you control. Your
+  coding agent can drive the whole dev loop before anything reaches your branch.
 </p>
 
 ---
@@ -33,7 +31,7 @@ kici run push --local # actually execute the workflow on your own machine
 
 ### What's in the box
 
-- **`kici`** — the developer CLI: author, type-check, and run workflows.
+- **`kici`** — the developer CLI: author, type-check, and run workflows, by hand or from your coding agent.
 - **`@kici-dev/sdk`** — define workflows, jobs, steps, and triggers in TypeScript.
 - **Self-hostable orchestrator + agent** — run the whole pipeline on your own boxes
   (`quay.io/kici-dev/…`), or use the hosted Platform at app.kici.dev.
